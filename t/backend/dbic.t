@@ -43,6 +43,9 @@ my $dbic = Local::DbicYancySchema->connect( 'dbi:SQLite::memory:' );
 $dbic->deploy;
 my $be;
 
+# TODO
+# - fix test to work with Yancy with DBIx::Class support
+
 subtest 'dbic yancy settings' => sub {
     my $empty_people = $dbic->resultset('people')->new({});
     can_ok $empty_people, qw(yancy);

@@ -1,4 +1,8 @@
 package DBIx::Class::Yancy;
+
+# PODNAME: DBIx::Class::Yancy
+# ABSTRACT: Set Yancy collection config through DBIx::Class result classes
+
 use strict;
 use warnings;
 use base qw( DBIx::Class );
@@ -9,7 +13,7 @@ our $VERSION = '0.001';
 
 =head1 NAME
 
-DBIx::Class::Yancy - Set Yancy collection config in result class.
+DBIx::Class::Yancy - Set Yancy collection config through DBIx::Class result classes
 
 =head1 SYNOPSIS
 

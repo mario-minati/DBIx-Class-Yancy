@@ -1,0 +1,3 @@
+-i=4    # Indent level is 4 cols
+-ce     # cuddled else
+-l=120  # line length

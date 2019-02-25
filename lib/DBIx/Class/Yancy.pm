@@ -76,7 +76,7 @@ Doug Bell <preaction@cpan.org> (Testing code inspired by L<Yancy>)
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is copyright (c) 2018 by Mario Minati and Minati Engoneering GmbH & Co. KG.
+This software is copyright (c) 2018 by Mario Minati and Minati Engineering GmbH & Co. KG.
 
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
